@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vikki56
 - 👀 I’m interested in software devlopment feild
-- 🌱 I’m currently learning c,c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
